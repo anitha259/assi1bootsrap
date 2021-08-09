@@ -1,0 +1,19 @@
+.my-container {
+    background-color: rgb(150, 150, 223);
+    height: 100vh;
+    overflow-y: auto;
+}
+
+.block {
+    height: auto;
+    min-height: 150px;
+    width: 70px;
+    text-align: center;
+    background-color: rgb(76, 76, 187);
+    padding-top: 15px;
+    margin-left: 85px;
+}
+
+.row-3 {
+    padding-bottom: 20px;
+}
